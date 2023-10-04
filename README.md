@@ -53,3 +53,20 @@ git branch -d mynewbranch
 git branch -d mynewbranch
 ```
 ![Screenshot 2023-10-04 at 4 57 21 PM](https://github.com/ifyyegwim/GIT-Practice/assets/134213051/a5ef8280-a8a8-42ec-a664-1565d85b9676)
+
+**Pushing your local git repository to your remote repository**
+```
+git remote add origin https://github.com/ifyyegwim/GIT-Practice.git
+```
+```
+git push origin master
+```
+![Screenshot 2023-10-04 at 5 14 41 PM](https://github.com/ifyyegwim/GIT-Practice/assets/134213051/0134c7a4-8628-433b-8e55-752cf15e58ab)
+
+**Cloning remote repository unto our computer**
+```
+git clone https://github.com/ifyyegwim/GIT-Practice.git/
+```
+![Screenshot 2023-10-04 at 5 26 15 PM](https://github.com/ifyyegwim/GIT-Practice/assets/134213051/c94d5a6f-2911-48c7-813f-71c068251e1f)
+
+
